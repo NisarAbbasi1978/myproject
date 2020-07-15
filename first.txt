@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Change in dev.Hello
 How are you
+=======
+Hello
+How are you
+Change in master branch.
+>>>>>>> master
